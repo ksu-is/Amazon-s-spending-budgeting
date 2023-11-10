@@ -1,1 +1,1 @@
-# Amazon-s-spending-budgeting
+# Amazon-spending-budgeting
