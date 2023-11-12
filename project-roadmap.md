@@ -1,3 +1,4 @@
+# Sprint 1
 - [x] Propose and submit an idea for Project 6
 - [x] Have the idea topic approved
 - [x] Establish a GitHub account and join KSU-IS
