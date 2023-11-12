@@ -2,7 +2,7 @@
 - [x] Propose and submit an idea for Project 6
 - [x] Have the idea topic approved
 - [x] Establish a GitHub account and join KSU-IS
-- [] Look around for a repository related to the topic
+- [x] Look around for a repository related to the topic
 - [] Make the .py coding for the project
 - [] rerun the repository, making sure it runs smoothly
 - [] 
