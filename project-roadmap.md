@@ -3,8 +3,7 @@
 - [x] Have the idea topic approved
 - [x] Establish a GitHub account and join KSU-IS
 - [] Look around for a repository related to the topic
-- [] Go over the repository and dissect the coding
-- [] Make the appropriate edit that will work for the idea
+- [] Make the .py coding for the project
 - [] rerun the repository, making sure it runs smoothly
 - [] 
 - [] 
