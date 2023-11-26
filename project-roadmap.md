@@ -7,4 +7,4 @@
 - [x] Rerun the repository, making sure the copied repo runs smoothly
 - [x] Readjust the repository to fit personal need
 - [x] Rerun again, making sure no error.
-- [] Submit the project to GitHub
+- [x] Submit the project to GitHub
