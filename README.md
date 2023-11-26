@@ -3,4 +3,5 @@ This project aims to help Amazon consumers track and analyze budget spending and
 * Jupyter Notebook
 * pandas
 * matplotlib
+* seaborn
 Data is composed of the user's Amazon account.
